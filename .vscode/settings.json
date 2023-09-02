@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Offline_Training_Model"
+    ]
+}
